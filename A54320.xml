@@ -1,0 +1,267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pereat papa, or, Reasons why a presumptive heir, or popish successor should not inherit the crown</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54320</idno>
+            <idno type="STC">Wing P1465</idno>
+            <idno type="STC">ESTC R15701</idno>
+            <idno type="EEBO-CITATION">13352020</idno>
+            <idno type="OCLC">ocm 13352020</idno>
+            <idno type="VID">99198</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54320)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99198)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 471:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pereat papa, or, Reasons why a presumptive heir, or popish successor should not inherit the crown</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:99198:1"/>
+            <head>Pereat Papa: OR REASONS Why a Preſumptive HEIR, or Popiſh Succeſſor Should not
+Inherit the CROWN.</head>
+            <p>IT is conceived, and that very candidly, without prejudice to other Judgments, or troubling our
+ſelves by reflecting on that ſo of<g ref="char:EOLhyphen"/>ten baffled a Cauſe call'd Popery, that a Papiſt, or one
+Popiſhly affected, ought not to Inherit or Succed in the management of the Crown.</p>
+            <div n="1" type="reason">
+               <head>Reaſon I.</head>
+               <p>In ſtrictneſs of Law, becauſe one ſo qualified, hath wilfully diſ<g ref="char:EOLhyphen"/>abled or rendred
+himſelf uncapable of that benefit, which the Com<g ref="char:EOLhyphen"/>mon Law (after the uſual courſe of
+Deſcent) doth poſitively require; for 'tis preſumable that he that ſucceds in the Office of
+the Crown, ſhould be Legally Adopted to execute ſo great a Truſt; and therefore if <hi>Minus,
+Idoneus,</hi> be not ſufficiently ballaſted with the Notion and In<g ref="char:EOLhyphen"/>trigues of State, others are
+to govern in aid of him, as in caſe of Idio<g ref="char:EOLhyphen"/>cy, Lunacy, or the like, and the Parliament is bound
+(as intruſted to redreſs Grievances, and ſecure the Nation) to place it where Religion and
+Property ſhall be adjudged moſt ſafe.</p>
+               <p>There are ſeveral Preſidents of this Nature.</p>
+               <list>
+                  <item>1. <hi>Edgar Atheling</hi> (as Stories agree) was the undoubted Heir, yet <hi>William</hi>
+the <hi>Norman,</hi> commonly called the Conquerer, was called in to oppoſe <hi>Harold,</hi> and
+inveſted with the Crown; and <hi>Atheling</hi> for ever an Exile, and diſ-inherited.</item>
+                  <item>2. After him ſucceeded his Second Son <hi>William Rufus,</hi> and not <hi>Ro<g ref="char:EOLhyphen"/>bert</hi> the
+Eldeſt.</item>
+                  <item>3. King <hi>John</hi> not only laid aſide, after <hi>Plantaginet</hi> his Eldeſt
+Bro<g ref="char:EOLhyphen"/>thers Son; but likewiſe put him to Death.</item>
+                  <item>4. In <hi>Sicily</hi> there was lately a great Conteſt between the two Sons of
+<hi>Charles</hi> the Second, <hi>Mortel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>
+and <hi>Robert,</hi> and I find the Crown awarded
+<pb n="2" facs="tcp:99198:2"/>to <hi>Robert</hi> the Younger, as <hi>Magis dignis
+ad Regnandum.</hi>
+                  </item>
+                  <item>5. <hi>Alexander</hi> was demanded to whom he would bequeath his Sce<g ref="char:EOLhyphen"/>pter, he ſaid, The
+Worthieſt, and to him whoſe Sword had the ſharp<g ref="char:EOLhyphen"/>eſt point; meaning, whoſe Vertues were
+moſt Luculent, and of the brighteſt Integrity: after the diſpoſition of <hi>Jacob,</hi>
+paſſing by <hi>Manaſſes,</hi> and conferring the Bleſſing upon <hi>Ephraim</hi> the
+Younger, as more de<g ref="char:EOLhyphen"/>ſerving, and acceptable to God.</item>
+                  <item>6. The State of <hi>France</hi> rejected the King of <hi>Navarr,</hi> and appointed another
+to Reign over them, becauſe of his Religion. And when after<g ref="char:EOLhyphen"/>wards the ſaid King of
+<hi>Navarr</hi> came to be <hi>Henry</hi> the Fourth of <hi>France;</hi> it was by his forſaking
+God, and complying with the Church of <hi>Rome,</hi> by means of which he thought to ſettle the
+Crown upon his head, but was ſo much miſtaken therein, that he thereby loſt both Crown and
+Life together.</item>
+               </list>
+            </div>
+            <div n="2" type="reason">
+               <head>Reaſon II.</head>
+               <p>Can it be thought but that he that ſucceeds in the Crown ſhould not ſucceed
+<hi>Concurrent<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bus his qui injure
+requirunt,</hi> as the Civil Law ex<g ref="char:EOLhyphen"/>preſſes it, that is in all the concerns thereof, which are
+the Laws, prin<g ref="char:EOLhyphen"/>cipally thoſe that relate to Religion, &amp; not for one man led away with a blind
+perverſeneſs, renouncing the Religion he knows not why (and ſo wilfully attainting himſelf)
+to inthral the Nation in Superſtition and Tyranny; for regularly in all parts where Popiſh
+Lords are in the Church, there Tyranny (on courſe) rages in the State.</p>
+            </div>
+            <div n="3" type="reason">
+               <head>Reaſon III.</head>
+               <p>'Tis a maxim amongſt Lawyers, that <hi>Lex facit Regem,</hi> and maxims muſt not be denied;
+if ſo, then to ſpeak out after the true intendment of Law, he that comes not to the Crown
+<hi>ſatiatim,</hi> as the Laws notifies and preſcribes, 'tis no lawful ſucceſſion, but
+down right Uſurpation. And without ſcruple, 'tis the endeavour of every good Chriſtian to
+withſtand an Uſurper, it being undoubtedly more pleaſing to God to put one man by, who thus
+wifully diſables himſelf, and withal moſt ſhame<g ref="char:EOLhyphen"/>fully uſurps, than expoſe millions of
+ſouls to damnation, and the ſtreets to flow with blood by ſuffering that Religion to creep
+in, whoſe refor<g ref="char:EOLhyphen"/>mation (at the mildeſt rate) will certainly prove Fire and Faggor.</p>
+               <p>For this very cauſe <hi>Maacha</hi> was removed (from being Queen) by her Son King
+<hi>Aſa,</hi> for making an Idol in a Grove, incited thereunto by the the Prophet
+<hi>Azariah.</hi>
+               </p>
+            </div>
+            <div n="4" type="reason">
+               <head>Reaſon IV.</head>
+               <p>The Succeſſion of the Crown, and a common Deſcent much differ; for if an Heir that's a
+Subject prove looſe and debauched, it little dam<g ref="char:EOLhyphen"/>nifies the Publick, more deſerving perſons
+may happily perchance ſtep into his poſſeſſions, and be more ſerviceable to the
+Publick; the da<g ref="char:EOLhyphen"/>mage is ſtill but private to his own Family; but in caſe of the Crown, there is
+none ſo ſenſeleſs but muſt needs conceive the damage moſt fatal becauſe
+univerſal.</p>
+               <p>
+                  <pb n="3" facs="tcp:99198:2"/>
+The whole Nation muſt inevitably ſuffer; Religion ſubverted, and Popery deſtroyed, and the
+whole People in danger of their Lives. 'Tis well known in a private caſe, the Heir is uſually
+thrown off and diſ<g ref="char:EOLhyphen"/>inherited: if an entail, it may be deſtroyed: and if Law juſtifies it, the
+like in the Publick. And therefore the grand Inquiſitors of State, and Conſervators of the
+Liberties of <hi>England,</hi> the Parliament, may for weighty Cauſes refuſe the Heir
+preſumptive, and for the Safety of the Nation ſettle it where they in Honour and Prudence
+ſhall conceive moſt proper.</p>
+            </div>
+            <div n="5" type="reason">
+               <head>Reaſon V.</head>
+               <p>We read in Scripture (which is the Golden Rule that we muſt walk by) that <hi>Libnab</hi>
+revolted from <hi>Jehoram,</hi> becauſe he had forſaken the God of his Fathers; ſo we had
+better forſake man, and adhere to God in keeping our Religion, than truſt to man, and loſe
+God, to be unavoid<g ref="char:EOLhyphen"/>ably deſtroyed here, and hereafter irrecoverably damned in ſerving
+<hi>Baal,</hi> and parting with the Divinity now eſtabliſhed.</p>
+            </div>
+            <div n="6" type="reason">
+               <head>Reaſon VI.</head>
+               <p>When <hi>R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>boboam</hi> had prepared a great
+Army to redude the <hi>Iſrae<g ref="char:EOLhyphen"/>lites,</hi> he was forbidden by the Prophet. <hi>Thus ſaith the
+Lord, Ye ſhall not go up, nor fight againſt your Brethren, for they are from me;</hi> mark, he
+calls them Brethren, not Rebels.</p>
+               <p>Paſſive Obedience therefore is ſimple, and fit for ſuch, that knows no better; now God
+has diſcovered the Snare and the Pit of Ruine that the Pope and the Devil has prepared for us, if
+we do not timely countermine it by Cautionary Laws, to ſuppreſs thoſe that digg'd it, we may
+in a ſhort ſpace be thrown into it headlong, and none pity us.</p>
+               <p>But the Right Line with ſome ſhallow pated Talkers, is a <hi>Noli me tangere,</hi> ſo
+ſacred (forſooth) that we muſt rather venture Body and Soul in ſubjecting our ſelves to
+all the Curſes imginable that Hell it ſelf can inflict on us, than in the leaſt alter or
+controul it; a very frivolous Cavear, and not to be heeded by us; for humane Examples (as I
+ſhewed before) have been noted againſt it, and the Scripture warrants it. <hi>Sa<g ref="char:EOLhyphen"/>muel</hi>
+foretold in the caſe of <hi>Saul,</hi> that he would be rejected for his diſobedience, though
+not his Perſon degraded or depoſed, yet that the Kingdom ſhould be removed, both from his
+Line and Tribe, which was done accordingly, and transferred on <hi>David:</hi> This proves very
+fully that the Heirs, or the next in Succeſſion, are not ſo immovably placed, but that they
+may lawfully (on juſt cauſe) be diſplaced, if not legally qualified, and other put up for
+God's Glory in their rooms. God raiſed <hi>Jehu</hi> to purge Idolatry againſt the Houſe of
+<hi>Ahab;</hi> all the Sons of <hi>Ahab</hi> were beheaded, and in a manner his whole Line cut off.
+For his good ſervice, he had a promiſe of a ſpecial Bleſſing for his Iſſue to
+con<g ref="char:EOLhyphen"/>tinue the Throne to the fourth Generation. Several other Inſtances I could give, but this may
+ſuffice.</p>
+               <p>
+                  <pb n="4" facs="tcp:99198:3"/>
+In brief, there's no Reformed Church, from the firſt <hi>Waldenſes</hi> of <hi>Lyons</hi> and
+<hi>Languedock,</hi> to this very day, but have held it lawful.</p>
+            </div>
+            <div n="7" type="reason">
+               <head>Reaſon VII.</head>
+               <p>It's conceited by half-witted States men, that reſtrictive Laws may prevent all miſchiefs,
+and ſecure the Proteſtants; a very vain Opinion, and moſt fallacious; for Laws will never
+bind, but more intage; thackle him as ye will, and load him with never ſo many Laws when King, he
+and his Parry will be reſtleſs, till they have ſet themſelves at Liberty, to have the
+Proteſtants under; for when King, he's not impeachable, and the <hi>Poſt Regni</hi> will be at
+his diſpoſal.</p>
+               <p>When the Wolf is Shepherd, the Flock is very ſafe indeed, and like to be well looked after,
+all may devour that will; for if his Party com<g ref="char:EOLhyphen"/>mit ſuch out-rages, that no Age can parallel, what
+will they do then? Now, no man is ſafe in his bed then none ſafe at all; they will ad<g ref="char:EOLhyphen"/>venture
+to murder people in their very houſes; for they hold it no more ſin than to kill a Dog.</p>
+            </div>
+            <div n="8" type="reason">
+               <head>Reaſon VIII.</head>
+               <p>In fine, be ſure he and his Party (which will increaſe daily, and the Proteſtants decline)
+will ſoon get an opportunity either by Stratagem, or open Force, to avoid all Laws, though they
+are never ſo ſtrong and wary, and therefore it will be impoſſible to be ſafe without a
+Proteſtant <hi>Succeſsor.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
